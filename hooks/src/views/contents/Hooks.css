@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #a8dadc;
+}
+
+a:visited {
+    color: #a8dadc;
+}
+
+a:hover {
+    color: dodgerblue;
+}
